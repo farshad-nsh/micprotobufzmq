@@ -1,0 +1,12 @@
+/**
+ * Created by macbook on 3/6/18.
+ */
+package speechPackage;
+
+syntax = "proto3";
+
+message Speech {
+    string userId = 134; // becomes awesomeField
+    bytes signal=1;
+}
+

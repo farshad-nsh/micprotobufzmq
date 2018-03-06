@@ -1,0 +1,21 @@
+{
+  "name": "micprotobufzmq",
+  "version": "1.0.0",
+  "description": "take microphone data and put it in protocol buffer and use zmq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farshad-nsh"
+  },
+  "keywords": [
+    "zmq",
+    "protocol",
+    "buffer",
+    "microphone"
+  ],
+  "author": "Farshad",
+  "license": "ISC"
+}
